@@ -1,5 +1,5 @@
 # facebook-bot-for-creeps
-a fun small project. 
+A fun small project. 
 
 HOW TO USE:-
 1) enter your username and password in place of email and password respectively 
